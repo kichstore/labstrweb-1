@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="consumerBanking" />
+        <module name="Labwork1_Maven" />
+        <module name="Laba1_Maven2" />
+        <module name="Laba1_Maven3" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="consumerBanking" target="1.8" />
+      <module name="Laba1_Maven2" target="17" />
+      <module name="Laba1_Maven3" target="17" />
+      <module name="Labwork1_Maven" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
